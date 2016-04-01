@@ -1,6 +1,13 @@
 # Browserdetect
 A small javascript function that detects browser and version.
 
+## How to use
+When the script is run it will automatically add classes and attributes to your `<html>`
+For example, running Chrome 49.
+`<html browser="chrome" version="49" class="chrome49 chrome">`
+
+Note that Internet Explorer 6 can't use attribute selector in CSS. [Source](http://caniuse.com/#feat=css-sel2)
+
 ## Compatibility (Tested Browsers and OS)
 ### Microsoft Edge
 + Version 13 (Windows 10)
