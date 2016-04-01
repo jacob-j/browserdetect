@@ -3,6 +3,7 @@ A small javascript function that detects browser and version.
 
 ## How to use
 When the script is run it will automatically add classes and attributes to your `<html>`
+
 For example, running Chrome 49.
 
 `<html browser="chrome" version="49" class="chrome49 chrome">`
