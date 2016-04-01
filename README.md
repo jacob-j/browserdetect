@@ -35,3 +35,6 @@ A small javascript function that detects browser and version.
 + Version 11 (Windows XP / 8.1)
 + Version 12 (Windows XP / 8.1)
 + Version 35 (Windows 10)
+
+## Credits
+[kennebec and Hermann Ingjaldsson](http://stackoverflow.com/questions/5916900/how-can-you-detect-the-version-of-a-browser)
