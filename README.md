@@ -1,4 +1,4 @@
-# Browserdetect 1.0
+# Browserdetect
 A small javascript function that detects browser and version.
 
 ## Compatibility (Tested Browsers and OS)
