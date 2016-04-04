@@ -13,6 +13,7 @@ For example, running Chrome 49.
 `html[browser="chrome"][version="49"]{   /* Apply styles for Chrome 49 */   }`
 <br /> or you can use the class
 <br />`html.chrome {   /* Apply styles for all Chrome browsers */   }`
+<br />`html.ie11 {   /* Apply styles for Internet Explorer 11  */   }`
 <br />
 <br /> Note that Internet Explorer 6 doesn't support attribute selectors. [Source](http://caniuse.com/#feat=css-sel2)
 
