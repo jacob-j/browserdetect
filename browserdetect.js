@@ -48,8 +48,8 @@
 
 	var html = document.getElementsByTagName("html")[0];
 
-	html.setAttribute("browser", results.name);
-	html.setAttribute("version", results.version);
+	html.setAttribute("data-browser", results.name);
+	html.setAttribute("data-version", results.version);
 
 	var className = html.className;
 
